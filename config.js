@@ -11,9 +11,9 @@ const CONFIG = {
     btnNo: 'Không, em gái hà :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại thành anh trai e <3',
     btnReply: 'Gửi cho anh mutai <3',
-    reply: 'thích thì thích mà không thích thì thích nè -.-'',
-    mess: 'haizzz em biết mà 🥰. Anh trai tốt với e zl 😘😘',
-    messDesc: 'Tối nay em mà không ngủ anh qua đón nhé .',
+    reply: 'Thích thì thích mà không thích thì thích nè -.-',
+    mess: 'Haizzz em biết mà 🥰. Anh trai tốt với e zl 😘😘',
+    messDesc: 'Tối nay em mà không ngủ anh qua đón nhé.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
